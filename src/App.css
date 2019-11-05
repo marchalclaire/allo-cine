@@ -83,3 +83,12 @@ p {
   color: rgb(60, 115, 241);
   font-size: 30px;
 }
+.infos1 {
+  color: rgb(60, 115, 241);
+  font-size: 30px;
+  font-weight: bold;
+}
+.infos2 {
+  color: black;
+  font-size: 30px;
+}

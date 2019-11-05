@@ -10,6 +10,11 @@ const Movie = () => {
           <div className="box-img">
             <img className="img-2" src={Image2}></img>
             <div className="details">
+              <Detail
+                category="Date de sortie"
+                infos1="27 septembre 1968"
+                infos2="(2h 21 min)"
+              ></Detail>
               <Detail category="De" infos="Stanley Kubrick"></Detail>
               <Detail
                 category="Avec"
